@@ -21,8 +21,11 @@ notes.md
 !examples/**/*.md
 !**/templates/*.md
 
-# ClawdHub publish folder (managed separately)
+# ClawHub publish/upload folders (managed separately)
 clawdhub-publish/
+clawhub-upload/
+clawhub-changelog.txt
+skill-submission-targets.txt
 
 # Claude session files
 .claude/
